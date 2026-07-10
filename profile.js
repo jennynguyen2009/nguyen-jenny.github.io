@@ -11,12 +11,12 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Jenny Nguyen",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
-
+  bio: "Hello! My name is Jenny Nguyen, and I'm a DREAM-High 2026 Scholar. I'm interested in pursuing studies in bioinformatics and computational biology. Through DREAM-High, I hope to expand my knowledge on the application of data science and computer science in cancer systems biology. Particularly, I look forward to utilizing computational biology principles to decipher and understand vast genomics data.",
+  
   /*
   Optional photo:
   1. Upload a photo file to this GitHub repository.
@@ -43,7 +43,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/jnynguyen2009/1446351"
     }
   ],
 
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/jennynguyen2009"
     }
   ]
 };
