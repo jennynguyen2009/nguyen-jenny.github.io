@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "photo.jpeg",
 
   contact: "Contact information available upon request.",
 
