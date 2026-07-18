@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hello! My name is Jenny Nguyen, and I'm a DREAM-High 2026 Scholar. I'm interested in pursuing studies in bioinformatics and computational biology. Through DREAM-High, I hope to expand my knowledge on the application of data science and computer science in cancer systems biology. Particularly, I look forward to utilizing computational biology principles to decipher and understand vast genomics data.",
+  bio: "Hello! My name is Jenny Nguyen, and I'm a DREAM-High 2026 Scholar. I'm interested in pursuing studies in bioinformatics and computational biology. Through DREAM-High, I hope to expand my knowledge on the application of data science and computer science in cancer systems biology. I look forward to utilizing computational biology principles to decipher and understand vast genomics data.",
   
   /*
   Optional photo:
